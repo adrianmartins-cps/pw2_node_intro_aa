@@ -1,7 +1,7 @@
 {
-  "name": "pw2_node_intro_aa",
+  "name": "aula2602",
   "version": "1.0.0",
-  "description": "este repositorio sera utilazado para aulas de backend baseado em Nodejs 20, sera um laboratorio de praticas de tecnicas basicas contendo as tecnicas de programaçao",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
